@@ -1,7 +1,7 @@
 # Analog Mono VCA Compressor with Arduino Control
 
 ## Overview
-This project is a analog audio compressor. It features a fully analog signal path using high-quality Op-Amps, controlled by an Arduino Uno for monitoring compression.
+This project is a analog audio compressor. It features a fully analog signal path using high-quality Op-Amps and an Arduino Uno for monitoring compression.
 
 ### Key Features
 * **Analog Signal Path:** Utilizing TL072 Op-Amps for low noise and distortion.
